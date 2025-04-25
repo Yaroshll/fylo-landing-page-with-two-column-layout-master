@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+@theme {
+--color-VeryDarkBlue: hsl(243, 87%, 12%);
+--color-DesaturatedBlue: hsl(238, 22%, 44%);
+--color-BrightBlue: hsl(224, 93%, 58%);
+--color-ModerateCyan: hsl(170, 45%, 43%);
+--color-LightGrayishBlue: hsl(240, 75%, 98%);
+--color-LightGray: hsl(0, 0%, 75%);
+--font-font1 :"Raleway";
+--font-font2 : "Open Sans";
+--text-text:16px;
+}
